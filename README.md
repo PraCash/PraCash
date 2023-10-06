@@ -48,7 +48,7 @@ Equipped with a foundation built on Google IT Support, Cloud Architect, and Goog
 
 Let's connect and embark on this exciting IT adventure! ☁️ #CloudComputing #AzureAdministrator #MicrosoftCertified #LifelongLearner
 
-## Contact
+## Let's Connect
 
 - 📧 Email: prakash_sigdel@outlook.com
 - 🌐 LinkedIn: [/in/prakashsigdel](https://www.linkedin.com/in/prakashsigdel)
