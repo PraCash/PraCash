@@ -11,9 +11,14 @@ Welcome to my GitHub profile, where code meets creativity.
 - 🌐 Lifelong learner, dedicated to upholding integrity and ethics
 
 ## Skills
-- 💽 Database Management System (DBMS)
-- ☁️ Azure Networking & Security
-- 📊 Monitoring, Backup, and Disaster Recovery
+- ☁️ Azure Expertise: Azure Networking & Security, Azure Governance & Compliance, Azure DevOps & CI/CD
+💼 Microsoft Proficiency: Microsoft 365 (M365), Power BI, SharePoint, Windows Server
+🔐 Endpoint management & Security: Microsoft Intune, Defender for Endpoint
+💻 Scripting & Development: PowerShell, Bash, Biceps
+🌐 Web & App Development: HTML & CSS, Coding Basics (C#, Python)
+🐳 Containerization & Virtualization: Kubernetes, Docker
+🖥️ IT Infrastructure & Support: Network Configuration, Hardware Deployment, Disaster Recovery, Technical Support Skills
+🗃️ Database Management: Azure SQL Database, Cosmos DB, PostgreSQL DB, MariaDB
 
 ## Certifications
 - ☁️ [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/213ba548-09b8-4b7d-9af0-327f353987e0)
