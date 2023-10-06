@@ -16,7 +16,7 @@ Welcome to my GitHub profile, where code meets creativity.
 - 📊 Monitoring, Backup, and Disaster Recovery
 
 ## Certifications
-- ☁️ Microsoft Certified: Azure Fundamentals
+- ☁️ [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/213ba548-09b8-4b7d-9af0-327f353987e0)
 - 🔐 Microsoft Certified: Azure Data Fundamentals
 - 🛡️ Microsoft Certified: Security, Compliance, and Identity Fundamentals
 - 🖥️ Technical Support Fundamentals
@@ -43,9 +43,9 @@ Equipped with a foundation built on Google IT Support, Cloud Architect, and Goog
 Let's connect and embark on this exciting IT adventure! ☁️ #CloudComputing #AzureAdministrator #MicrosoftCertified #LifelongLearner
 
 ## Contact
-- 📱 Mobile: +358445323730
+
 - 📧 Email: prakash_sigdel@outlook.com
-- 🌐 LinkedIn: [linkedin.com/in/prakashsigdel](https://www.linkedin.com/in/prakashsigdel)
+- 🌐 LinkedIn: [/in/prakashsigdel](https://www.linkedin.com/in/prakashsigdel)
 
 
 
