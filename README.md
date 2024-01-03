@@ -43,7 +43,7 @@ Welcome to my GitHub profile, where code meets creativity.
   - April 2023
 
 ## Summary
-I thrive on simplifying complex tech challenges to empower organizations through cloud solutions. With three Microsoft Fundamentals certificates and a pursuit of Certified Azure Administrator, I'm intensely eager to put my knowledge into practice and carve out a successful career in the Microsoft domain.
+I thrive on simplifying complex tech challenges to empower organizations through cloud solutions. With four Microsoft Fundamentals certificates and a pursuit of Certified Azure Administrator, I'm intensely eager to put my knowledge into practice and carve out a successful career in the Microsoft domain.
 
 Equipped with a foundation built on Google IT Support, Cloud Architect, and Google IT Automation with Python, I'm ready to apply these skills in real-world scenarios and drive innovation through Azure.
 
