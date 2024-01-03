@@ -24,7 +24,7 @@ Welcome to my GitHub profile, where code meets creativity.
 - ☁️ [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/213ba548-09b8-4b7d-9af0-327f353987e0)
 - 🔐 [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/7ae8becc-2966-4d75-b603-cc8a23607d9d)
 - 🛡️ [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/1f9221a9-63a7-4479-98ba-9f3edf8ad799)
--     [Microsoft 365 Certified: Fundamentals](https://www.credly.com/badges/0744663d-227b-4424-b0ff-f94921ed8823).
+- 💼 [Microsoft 365 Certified: Fundamentals](https://www.credly.com/badges/0744663d-227b-4424-b0ff-f94921ed8823)
 - 🖥️ [Operating Systems And You: Becoming a Power User](https://coursera.org/share/1d042547b4cde2d052624b54ccdc99b0)
 - 🖥️ [Technical Support Fundamentals](https://coursera.org/share/f1d8e3f220f7fd67a587f61692e113e2)
 - 📈 [Digital Marketing](https://www.futurelearn.com/certificates/ty241w6)
