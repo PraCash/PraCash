@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile, where code meets creativity. 
 
-![Profile Banner](https://your-image-url.com/your-image.png)
+<!--- ![Profile Banner](https://your-image-url.com/your-image.png) --->
 
 ## About Me
 - 👨‍💻 Aspiring Cloud Support Engineer | Microsoft Azure Explorer
