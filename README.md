@@ -49,6 +49,11 @@ Equipped with a foundation built on Google IT Support, Cloud Architect, and Goog
 
 Let's connect and embark on this exciting IT adventure! ☁️ #CloudComputing #AzureAdministrator #MicrosoftCertified #LifelongLearner
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PraCash)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PraCash&show_icons=true)  
+
+
 ## Let's Connect
 
 - 📧 Email: prakash_sigdel@outlook.com
