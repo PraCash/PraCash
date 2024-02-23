@@ -53,6 +53,8 @@ Let's connect and embark on this exciting IT adventure! ☁️ #CloudComputing #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PraCash&show_icons=true)  
 
+![Visitor Count](https://profile-counter.glitch.me/{PraCash}/count.svg)
+
 
 ## Let's Connect
 
